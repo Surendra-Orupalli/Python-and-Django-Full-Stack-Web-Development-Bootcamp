@@ -1,0 +1,112 @@
+body{
+  background-color: #011627;
+  border: 20px solid #2EC4B6;
+}
+
+
+h1{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+}
+
+
+h3{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+}
+
+
+p{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+#signup{
+  margin-top: 50px;
+}
+
+
+#first{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+
+#fname{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+
+
+#last{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+
+#lname{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+
+
+#email{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+}
+
+
+#mail{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+
+
+#signmeup{
+  background-color: orange;
+  padding: 30px;
+  border-radius: 30px;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  margin-left: 330px;
+  margin-bottom: 30px;
+}
+
+
+#thelist{
+  list-style-type: none;
+}
+
+
+.bar1{
+  background-color: #6ed8c8;
+  height: 1000px;
+  width: 50px;
+  margin-top: 0px;
+}
+
+
+.bar2{
+  background-color: #6ed8c8;
+  height: 1000px;
+  width: 300px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
